@@ -33,3 +33,11 @@ a. Generating Maps
 b. Generating Online form for self-declaration
 
 c. Registration by LIU/Police/Panchayat
+
+## How to Collaborate
+
+Please follow these collaboration [guidelines](CONTRIBUTING.md) on this repository (Only for non-admins!)
+
+## License
+
+This project follows [MIT License](LICENSE)
